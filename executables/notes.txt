@@ -1,0 +1,7 @@
+message.raw_mentions list[]
+
+embed.author.name = char name
+
+embed.description = parse kakera
+
+message.interaction.user.id slash roll user id

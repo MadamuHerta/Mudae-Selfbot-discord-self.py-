@@ -1,0 +1,62 @@
+{
+    "authToken":"YOUR_DISCORD_USER_TOKEN_HERE",
+    "selectedChannel": 123456789012345678,
+    "selectedGuild":[
+        123456789012345678
+    ],
+    "desiredCharacters":[
+        "2B",
+        "Zero Two",
+        "Taiga Aisaka",
+        "Violet Evergarden",
+        "Yotsuba Nakano",
+        "Power",
+        "Usagi Tsukino",
+        "Yor Forger",
+        "Alice (SAO)",
+        "Madoka Kaname",
+        "Hange Zoë",
+        "Akane Kurokawa",
+        "Kana Arima",
+        "Alice Nakiri",
+        "Ochako Uraraka",
+        "Miku Nakano",
+        "Rider"
+    ],
+    "soullist":[
+        "Zero Two",
+        "Ei",
+        "Genius Perv Girl",
+        "Sangonomiya Kokomi",
+        "Yae Sakura",
+        "Mei the Princess",
+        "The Silver Wolf",
+        "Seele",
+        "Pervy Maid",
+        "Herrscher of Sentience",
+        "Yor Forger",
+        "Kana Arima",
+        "Ibuki Mioda",
+        "Akane Kurokawa",
+        "Miku Nakano",
+        "Nero Claudius"
+
+    ],
+    "kakera_list":[
+        "kakera",	
+        "kakeraT",
+        "kakeraG",
+        "kakeraY",
+        "kakeraO",
+        "kakeraR",
+        "kakeraW",
+        "kakeraL"
+     ],
+     "soulburst":[
+        "kakeraR",
+        "kakeraW",
+        "kakeraL"
+     ],
+     "min_kak": 100,
+     "claimMessage": ""
+}

@@ -1,0 +1,31 @@
+_ __**Server Settings**__ _
+(Server not premium)
+
+· Prefix: **$** ($prefix)
+· Lang: **en** ($lang)
+· Claim reset: every **180** min. ($setclaim)
+· Exact minute of the reset: xx:**09** ($setinterval)
+· Reset shifted: by +**0** min. ($shifthour)
+· Rolls per hour: **10** ($setrolls)
+· Time before the claim reaction expires: **30** sec. ($settimer)
+· Spawn rarity multiplicator for already claimed characters: **2** ($setrare)
+· Server game mode: **1** ($gamemode)
+· This channel instance: **1** ($channelinstance)
+· Slash commands: enabled ($toggleslash)
+
+· Ranking: enabled ($toggleclaimrank/$togglelikerank)
+· Ranks displayed during rolls: **disabled** ($togglerolls)
+· Hentai series: enabled ($togglehentai)
+· Disturbing imagery series: enabled ($toggledisturbing)
+· Child characters: enabled ($togglechildtag)
+· Rolls sniping: **3** ($togglesnipe) => **2** sec.
+· Kakera sniping: 0 ($togglekakerasnipe)
+· Limit of characters per harem: **8100** ($haremlimit)
+· Reacts: ****for all your rolls**** ($togglereact)
+· Custom reactions: no ($claimreact)
+· Kakera reactions more recognizable: no ($kakerareact switchset)
+
+· Kakera trading: enabled ($togglekakeratrade)
+· Kakera calculation: claim and like ranks (and number of claimed characters) ($togglekakeraclaim/$togglekakeralike)
+· Kakera value displayed during rolls: enabled ($togglekakerarolls)
+· $kakeraloot wishprotect: enabled ($togglewishprotect)

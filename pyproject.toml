@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "mudae-selfbot"
+version = "0.1.0"
+description = "Discord self-bot for Mudae character claiming and kakera collection"
+authors = ["MadamuHerta"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+discord-py-self = "^2.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

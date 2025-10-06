@@ -1,0 +1,33 @@
+_ __**Configura��es do Server**__ _
+(Server n�o premium)
+
+� Prefix: **$** ($prefix)
+� Lang: **pt-br** ($lang)
+� Claim reset: cada **180** min. ($setclaim)
+� Minuto exato do reset: xx:**22** ($setinterval)
+� Reset alterada: por +**0** min. ($shifthour)
+� Rolls por hora: **8** ($setrolls)
+� Tempo antes da rea��o dos rolls sumir: **45** sec. ($settimer)
+� Raridade de spawn para personagens j� casados: **4** ($setrare)
+� % kakera bonus: **+0** ($setkakerabonus)
+� Server game mode: **2** ($gamemode)
+� $servlimroul = 31744 $wa, 31870 $ha, 22150 $wg, 18810 $hg
+� Channel instance: **1** ($channelinstance)
+� Slash commands: ativado ($toggleslash)
+
+� Ranking: ativado ($toggleclaimrank/$togglelikerank)
+� Ranks exibidos durante os rolls: **desativado** ($togglerolls)
+� S�ries de Hentai: ativado ($togglehentai)
+� S�ries com imagens 'Gore': ativado ($toggledisturbing)
+� Personagens crian�as: ativado ($togglechildtag)
+� Rolls sniping: **3** ($togglesnipe) => **2** sec.
+� Kakera sniping: 0 ($togglekakerasnipe)
+� Limite de caracteres por har�m: **8100** ($haremlimit)
+� Reacts: ****para todos os seus rolls**** ($togglereact)
+� Rea��es personalizadas: n�o ($claimreact)
+� Rea��es de kakera mais reconhec�veis: n�o ($kakerareact switchset)
+
+� Trade de Kakera: ativado ($togglekakeratrade)
+� C�lculo de Kakera: claim e like rank (e n�mero de personagens casados) ($togglekakeraclaim/$togglekakeralike)
+� Valor de kakera exibido durante os rolls: ativado ($togglekakerarolls)
+� $kakeraloot wishprotect: ativado ($togglewishprotect)
